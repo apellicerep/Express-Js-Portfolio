@@ -58,7 +58,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #002742;
   color: #fff;
   box-shadow: none !important;
 }
@@ -147,4 +147,8 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+.title-bar{
+  background-color:#002742;
 }
