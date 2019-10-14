@@ -1,0 +1,10 @@
+extends layout.pug
+
+block content
+    h1 #{errorStatus}
+    h2 #{errorMessage}
+    p #{errorStack}
+
+    nav.grid-container.portfolio-breadcrumb
+      a(href='/') ← Back
+    
