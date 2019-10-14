@@ -1,0 +1,85 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "This project, displays random famous quotes each time a button is clicked, also every interval the backgroundColor and the quotes changes randomly.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://apellicerep.github.io/Random_Quote_Generator/",
+            "github_link": "https://github.com/apellicerep/Random_Quote_Generator",
+            "image_urls": [
+                "/static/img/Random-Quote-Generator-550.png",
+                "/static//img/QuoteGenerator.gif"
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "List pagination and live filtering with Vanilla Javascript",
+            "description": "I enhanced the usability of a web page that is displaying way too much information all at once.\nGiven the html and css of a list of students using Vanilla Javascript:\n\nI break it up into separate pages that display only 10 students at a time. And programmitcally add buttons to the bottom of the page that allow users to navigate through the list, 10 studnets at a time.\n\nI added a live filtering to the web.\n\nThe code will work for any list conaining any number of items",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://apellicerep.github.io/List-Pagination-and-Filtering/",
+            "github_link": "https://github.com/apellicerep/Random_Quote_Generator",
+            "image_urls": [
+                "/static//img/List-pagination-550.png",
+                "/static//img/ListPagination.gif"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "In this project, I used JavaScript to enhance an interactive registration form.\n\nUsing the supplied HTML and CSS files, I added ALL the JavaScript to make the form more user-friendly by:\n\nadding customized and conditional behavior and interactivity\nvalidating user input and providing helpful error messages when the user enters invalid information into the form fields.\nInstead of plain \"vanilla\" JavaScript, I used the popular jQuery library to complete this project to get familiar with this library since it is so common and prevalent on the web.",
+            "technologies": [
+                "Javascript",
+                "JQuery",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://apellicerep.github.io/Interactive_Form/",
+            "github_link": "https://github.com/apellicerep/Interactive_Form",
+            "image_urls": [
+                "/static//img/Interactive-Form-550.png",
+                "/static//img/InteractiveForm.gif"
+            ]
+        },
+        {
+            "id": "3",
+            "project_name": "OOP Js Game Show App",
+            "description": "Browser-based, word guessing game: \"Phrase Hunter.\"\n\nUsing the supplied HTML and CSS files as you can see in the first commit I added ALL the JavaScript code and I used OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://apellicerep.github.io/OOP-Js-Game-Show-App/",
+            "github_link": "https://github.com/apellicerep/OOP-Js-Game-Show-App",
+            "image_urls": [
+                "/static//img/OOP-Game-550.png",
+                "/static//img/OopGame.gif"
+            ]
+        },
+        {
+            "id": "4",
+            "project_name": "Employee Directory",
+            "description": "For this project, I've coded all the Javascript logic for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.\n\nI used the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory.\n\nI requested a JSON object from the API using asynchronous programming and parsed the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://apellicerep.github.io/Employee_Directory_JS/",
+            "github_link": "https://github.com/apellicerep/Employee_Directory_JS",
+            "image_urls": [
+                "/static//img/Employee-Directory-550.png",
+                "/static//img/EmployeeDirectory.gif"
+            ]
+        }
+    ]
+}

@@ -12,6 +12,9 @@ route.get('/about', (req, res) => {
 
 route.get('/project/:id', (req, res) => {
     const projectId = req.params.id;
+    if (projectId > projects.length - 1) {
+        return res.redirect('/')
+    }
     const project = projects[projectId]
     res.render('project', { project })
 })
