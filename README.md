@@ -14,3 +14,5 @@ I used Nodejs and Express to:
 * Set up the middleware to utilize static files like CSS
 * Handle errors
 * Set up a server to serve the project
+
+![.](https://github.com/apellicerep/Express-Js-Portfolio/blob/master/portfolioNodegif.gif)
